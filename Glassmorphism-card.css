@@ -112,3 +112,7 @@ body::after{
     text-decoration: none;
     font-weight: 200;
 }
+.container .card .content a:hover{
+    font-weight: 500;
+    background-opacity: 0.5;
+}
